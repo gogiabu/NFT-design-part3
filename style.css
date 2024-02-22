@@ -126,9 +126,6 @@ header{
 }
 /*header end*/
 /*main start*/
-main{
-    max-width: 100%;
-}
 /* image */
 .section_1{
     width: 100%;
@@ -636,7 +633,7 @@ form{
 .section_2_box_1{
     margin-top: 10px;
     width: 100%;
-    height: 60px;
+    height: 70px;
     display: flex;
 }
 .section_2_nfts{
@@ -1083,10 +1080,6 @@ form{
     }
     .image_burger_menu{
         display: block !important;
-    }
-    main{
-        margin: auto;
-        width: 375px !important;
     }
     .section_1{
         width: 375px !important;
